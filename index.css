@@ -21,3 +21,88 @@ margin-right: 90px;}
 #img{ text-align: center;}
 #img2{text-align: center;
 margin-top: 20px;}
+
+#nos{color: orangered;}
+
+#time{color: green;}
+#tudo{background-color: blanchedalmond;
+margin-top: 100px;
+margin-left: 100px;
+margin-bottom: 100px;
+margin-right: 100px;}
+
+#encontre{text-align: center;}
+
+#inicio {
+    background-color: rgb(252, 214, 137);
+    text-align: center;
+    font-size: larger;
+    color: rgb(95, 65, 35);
+    height: 140px;
+    align-items: last baseline;
+}
+
+#titulo {
+    padding: 50px;
+}
+
+#menu {
+    background-color: rgb(237, 240, 241);
+    height: 50px;
+}
+
+#linha {
+    color: rgb(39, 31, 7);
+    font-size: large;
+    align-items: last baseline;
+}
+
+#subtitulo {
+    color: rgb(254, 218, 145);
+    text-align: left;
+}
+
+#empada {
+    text-align: center;
+}
+
+#card {
+    width: 95%;
+    margin: 0 auto;
+    padding: 15px;
+    background-color: floralwhite;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 8px (0, 0, 0, 1);
+
+}
+
+#texto {
+    width: 100%;
+}
+
+footer {
+    background-color: rgb(213, 161, 55);
+    color: #fff;
+    padding: 10px;
+    font-size: smaller;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+}
+
+footer a {
+    color: #2fff00;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+#botao {
+    background-color: rgb(155, 224, 95);
+    text-align: center;
+    width: 40%;
+    height: 40px;
+    color: #fff;
+}
